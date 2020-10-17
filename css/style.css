@@ -399,3 +399,7 @@ footer .svg-inline--fa:hover{
     margin: 1.5rem auto;
 }
 
+video{
+    width: 100%;
+    height: auto;
+}
